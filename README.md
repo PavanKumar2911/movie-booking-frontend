@@ -2,7 +2,7 @@
 
 This project is a comprehensive **Movie Ticket Booking System** with a separate frontend and backend designed to offer an intuitive and interactive booking experience for users.
 
-🌐 **Live Demo**: [Movie Booking System](https://movie-booking-online.netlify.app/)
+🌐 **Live Demo**: [Movie Booking System](https://moviebooking-frontend.netlify.app/about)
 
 ---
 
