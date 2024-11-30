@@ -120,21 +120,21 @@ export default function About() {
               <MDBModalBody>
                 <div className="about-div">
                   <p>Created By : </p>
-                  <p>Balaji Sai Charan Karri</p>
+                  <p>Putti pavan Kumar</p>
                 </div>
                 <div className="about-div">
                   <p>Linkedin:</p>
                   <a
                     target="_blank"
                     rel="noreferrer"
-                    href="https://www.linkedin.com/in/balaji-sai-charan/"
+                    href="https://www.linkedin.com/in/pavan-kumar-putti-53251a235/"
                   >
                     <i class="fa-solid fa-link"></i>
                   </a>
                 </div>
                 <div className="about-div">
                   <p>GitHub :</p>
-                  <a target="_blank" href="https://github.com/Balaji-Sai-charan">
+                  <a target="_blank" href="https://github.com/PavanKumar2911">
                     <i class="fa-solid fa-link"></i>
                   </a>
                 </div>
